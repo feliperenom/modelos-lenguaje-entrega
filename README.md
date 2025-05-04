@@ -15,12 +15,11 @@ Luego que tienes Docker instalado, abre tu editor de código de preferencia y ab
 
 Una vez ahi, primero vamos a dockerizar el backend. Para eso correrás los siguientes comandos: 
 
-1. `cd c:\Users\Felipe\Documents\GitHub\modelos-lenguaje-entrega\src\model
-docker build -f back.Dockerfile -t backend-legaluy .`
+1. `cd [ruta de dónde tienes guardado el proyecto + src/model] docker build -f back.Dockerfile -t backend-legaluy .`
 
 2. `docker run -p 8080:8080 backend-legaluy`
 
 Luego, vamos a dockerizar el frontend, para ello correras los siguientes comandos: 
 
-1. `docker build -f front.Dockerfile -t frontend-legaluy .`
+1. `cd [ruta de dónde tienes guardado el proyecto + src/front] docker build -f front.Dockerfile -t frontend-legaluy .`
 2. `docker run -p 8501:8501 frontend-legaluy`
