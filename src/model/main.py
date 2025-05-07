@@ -30,9 +30,9 @@ with open(SYSTEM_PROMPT_PATH, encoding="utf-8") as f:
     SYSTEM_PROMPT = f.read()
 
 llm = ChatOpenAI(
-    model_name="gpt-4o",
+    model_name="gpt-3.5-turbo",
     temperature=0.0,
-    max_tokens=1024,
+    max_tokens=4096,
     streaming=True,
 )
 
@@ -48,13 +48,30 @@ def build_context_prompt(user_prompt: str, context: str) -> str:
 
 import re
 from fastapi.responses import StreamingResponse
+from sentence_transformers import SentenceTransformer, util
 
-SALUDOS = ["hola", "buenos días", "buenas tardes", "buenas noches"]
-AGRADECIMIENTOS = ["gracias", "muchas gracias", "te agradezco"]
+### MANEJO DE SALUDOS Y AGRADICIMIENTOS ###
 
-def es_saludo_agradecimiento(texto: str) -> bool:
-    texto = texto.lower().strip()
-    return any(s in texto for s in SALUDOS + AGRADECIMIENTOS)
+# Inicializa el modelo
+st_model = SentenceTransformer('all-MiniLM-L6-v2')
+
+SALUDOS = ["hola", "buenos días", "buenas tardes", "buenas noches", "buen dia", "saludos"]
+AGRADECIMIENTOS = ["gracias", "muchas gracias", "te agradezco", "agradecido", "agradezco", "mil gracias"]
+
+# Precalcula los embeddings de las frases de referencia
+saludos_emb = st_model.encode(SALUDOS, convert_to_tensor=True)
+agradecimientos_emb = st_model.encode(AGRADECIMIENTOS, convert_to_tensor=True)
+
+def es_saludo_agradecimiento(texto: str, threshold=0.6) -> bool:
+    # Calcula el embedding del mensaje del usuario
+    user_emb = st_model.encode([texto], convert_to_tensor=True)
+    # Calcula similaridad con saludos y agradecimientos
+    max_saludo = float(util.cos_sim(user_emb, saludos_emb).max())
+    max_agradecimiento = float(util.cos_sim(user_emb, agradecimientos_emb).max())
+    # Si alguna similaridad supera el umbral, es saludo o agradecimiento
+    return max(max_saludo, max_agradecimiento) > threshold
+
+### FIN MANEJO DE SALUDOS Y AGRADECIMIENTOS ### 
 
 def extract_link_from_context(context: str) -> str:
     match = re.search(r'\[Ver documento legal completo\]\([^)]+\)', context)
@@ -66,20 +83,17 @@ def extract_link_from_context(context: str) -> str:
 async def chat(request: ChatRequest):
     try:
         if es_saludo_agradecimiento(request.prompt):
-            if any(s in request.prompt.lower() for s in SALUDOS):
-                def saludo_gen():
-                    yield "¡Hola! ¿En qué puedo ayudarte con información legal?".encode("utf-8")
-                return StreamingResponse(saludo_gen(), media_type="text/plain")
-            else:
-                def gracias_gen():
-                    yield "¡Gracias a ti! Si tienes otra consulta legal, aquí estoy para ayudarte.".encode("utf-8")
-                return StreamingResponse(gracias_gen(), media_type="text/plain")
-        
-        # Recuperar contexto relevante desde FAISS (usando OpenAI embeddings)
-        context = retrieve_documents_with_link(request.prompt)
+            context = ""
+        else:
+            context = retrieve_documents_with_link(request.prompt)
+
+        #context = retrieve_documents_with_link(request.prompt)
         
         # IMPRIME EL CONTEXTO EN LA CONSOLA PARA DEBUG
-        print("\n=== CONTEXTO LEGAL PASADO AL MODELO ===")
+        print("=== SYSTEM PROMPT PASADO AL MODELO ===")
+        print(SYSTEM_PROMPT)
+        print("=== FIN SYSTEM PROMPT ===\n")
+        print("=== CONTEXTO LEGAL PASADO AL MODELO ===")
         print(context)
         print("=== FIN CONTEXTO ===\n")
         

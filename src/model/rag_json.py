@@ -6,7 +6,7 @@ from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain_openai import OpenAIEmbeddings
 
 FAISS_INDEX_DIR = "faiss_index"
-DATA_DIR = "C:/Users/Felipe/Documents/GitHub/modelos-lenguaje-entrega/src/data/json_docs"
+DATA_DIR = "C:/Users/Felipe/Documents/GitHub/modelos-lenguaje-entrega/src/data/web_scrapping_json"
 
 def load_documents_from_json_folder(json_path):
 

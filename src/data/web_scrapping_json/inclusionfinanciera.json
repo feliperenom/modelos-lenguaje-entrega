@@ -1,0 +1,134 @@
+{
+  "filename": "Inclusionfinanciera",
+  "link": "https://www.impo.com.uy/inclusionfinanciera/",
+  "bloques": [
+    {
+      "question": "¿Sabías que…por ley se promueve el uso de medios de pago electrónicos, como ser tarjetas de débito, tarjetas de crédito, instrumentos de dinero electrónico y transferencias electrónicas de fondos?",
+      "answer": "Estos medios se usan para pagos a través de cajeros automáticos, por Internet, por teléfonos celulares u otras vías.El pago realizado a través de estos medios cancela la obligación.En caso de transferencias electrónicas de fondos, la cancelación de la obligación se produce cuando se acredita el monto en la cuenta de destino."
+    },
+    {
+      "question": "¿Qué es dinero electrónico según la Ley?",
+      "answer": "El dinero electrónico es una forma de representar el dinero en efectivo, por ejemplo, mediante tarjetas prepagas, billeteras electrónicas o instrumentos similares.Es aceptado como medio de pago, convertible en dinero en efectivo, no genera intereses y su valor se almacena en medios electrónicos, como ser:el chip de una tarjeta,en un teléfono celular,en una computadora."
+    },
+    {
+      "question": "¿Quiénes pueden emitir dinero electrónico?",
+      "answer": "Además de las instituciones de intermediación financiera (ejemplo: bancos públicos y privados), podrán emitir dinero electrónico las instituciones emisoras de dinero electrónico autorizadas por el Banco Central del Uruguay."
+    },
+    {
+      "question": "¿Qué establece sobre la actividad de las instituciones emisoras de dinero electrónico?",
+      "answer": "No podrán realizar operaciones de intermediación financiera, captar depósitos ni otorgar créditos.Su actividad está regulada por la propia Ley, su reglamentación y por las normas del Banco Central del Uruguay. Se establecen sanciones para casos de incumplimiento."
+    },
+    {
+      "question": "¿Qué pagos se regulan por esta Ley?",
+      "answer": "Remuneraciones de trabajadores dependientes.Honorarios de profesionales.Prestaciones de servicios fuera de la relación de dependencia.Pasividades (jubilaciones, pensiones y retiros).Beneficios Sociales (asignaciones familiares, subsidios , etc.).Prestaciones de alimentación.Operaciones y negocios jurídicos por los importes que determina.Pagos a proveedores del Estado.Se determinan losmedios de pagoadmitidos,montos mínimosde operaciones,plazospara su aplicación ysancionesen caso de incumplimiento."
+    },
+    {
+      "question": "¿Qué establece la Ley para el pago de salarios?",
+      "answer": "Los trabajadores dependientes,sin perjuicio de la modalidad de pago en efectivo, podrán  cobrar sus salarios y otros montos que tengan derecho a percibir a través de:acreditación en cuenta en instituciones de intermediación financiera,instrumentos de dinero electrónico.La forma de pago será acordada entre trabajador y empleador al comienzo de la relación laboral y se mantendrá por 1 año; si al año no se acuerda una nueva modalidad de pago, se prorroga por 1 año más.Si se acuerda el pago mediante  acreditación en cuenta o en instrumento de dinero electrónico:el trabajador tiene derecho a elegir libremente la institución en la cual cobrará sus retribuciones y su elección estará vigente por un año; mientras el trabajador no opte por una, el empleador puede elegir por él;no implica que el trabajador acepte la liquidación;no exime al empleador de la obligación de emitir el recibo de sueldo correspondiente."
+    },
+    {
+      "question": "¿Y para el pago de las prestaciones de alimentación?",
+      "answer": "La Ley establece que, cuando no son suministradas en especie,  solo se podrán pagar mediante instrumentos de dinero electrónico  que aseguren el destino de dicha prestación.El beneficiario tendrá derecho a solicitar un instrumento adicional a nombre de las personas determinadas en la ley (padres, hijos, etc.)."
+    },
+    {
+      "question": "¿Cómo se regula el pago de honorarios a profesionales y otrostrabajadores no dependientes?",
+      "answer": "El pago de honorarios a profesionales fuera de la relación de dependencia podrá  realizarse:en efectivo hasta el monto máximo establecido en la ley;mediante medios de pago electrónicos;por acreditación en cuenta en instituciones de intermediación financiera;en instrumentos de dinero electrónico.Ese sistema de pago podrá extenderse aotros trabajadores no dependientes."
+    },
+    {
+      "question": "¿Qué dispone para el pago de jubilaciones, pensiones y retiros?",
+      "answer": "Las jubilaciones, pensiones y retiros se podrán cobrar:en efectivo,en instituciones de intermediación financiera (ej: bancos), oen instrumentos de dinero electrónico.La institución para el cobro podrá ser elegida libremente por el interesado, debiendo comunicarse la decisión a la institución de la que percibe la prestación.Pasado un año de la elección, el beneficiario podrá cambiar de institución u optar por otro medio de cobro."
+    },
+    {
+      "question": "¿Qué establece para el pago de beneficios sociales?",
+      "answer": "El pago de beneficios sociales, asignaciones familiares, complementos salariales, indemnizaciones temporarias, rentas por incapacidades permanentes y subsidios de cualquier tipo, realizado por cualquier instituto de seguridad social o compañía de seguros, podrá ser:en efectivo,acreditación en cuenta en instituciones de intermediación financiera (ej: bancos), oen instrumento de dinero electrónico.En el caso de los trabajadores, el pago se realizará en la institución en que percibe su remuneración;  los demás beneficiarios podrán elegir libremente la institución en la que cobrarán.La decisión debe comunicarse a la institución de la que perciben la prestación.Pasado un año de la elección, el beneficiario podrá cambiar de institución u optar por otro medio de cobro."
+    },
+    {
+      "question": "¿Qué establece sobre la inembargabilidad de las sumas acreditadas?",
+      "answer": "A los montos acreditados por remuneraciones, pasividades y beneficios sociales se les aplica el régimen de inembargabilidad establecido por la legislación, durante el plazo de 180 días corridos desde la fecha de la respectiva acreditación.Además se establece como medida de protección del pago de remuneraciones, pasividades, beneficios sociales, etc., que  la insolvencia de una institución emisora de dinero electrónico o su inhabilitación para funcionar, en ningún caso impedirá el pago, al titular del instrumento de dinero electrónico, de las sumas que tengan acreditadas."
+    },
+    {
+      "question": "¿Cómo se regula la prestación de los servicios por parte de las instituciones de intermediación financiera y de las instituciones que emiten dinero electrónico?",
+      "answer": "La información sobre las ofertas de productos y servicios de las instituciones, para el pago de honorarios, pasividades, etc., deberá ser clara, legible y de buena fe.Deberán brindar los servicios a todos los trabajadores, pasivos y beneficiarios que lo soliciten sin discriminación y gratuitamente.Deberán brindar los servicios a quienes cobren prestaciones alimenticias dispuestas u homologadas judicialmente y soliciten su acreditación en  instituciones de intermediación financiera o en instrumento de dinero electrónico.Los beneficios y promociones que otorguen deben estar disponibles a todos los trabajadores, pasivos y beneficiarios por igual.Lascuentas en instituciones de intermediación financiera y los instrumentos de dinero electrónicoen los que se acrediten los pagos a los trabajadores, pasivos y beneficiarios deberán cumplir, entre otras, las siguientes condiciones básicas:No tendrán costo, ni exigencia de saldos mínimos.Permitirán la extracción de los fondos en cualquier momento, incluso de la totalidad del dinero en un solo movimiento mensual, sin costo ni preaviso.En el caso de cuentas, tendrán asociada una tarjeta de débito, que permitirá a su titular retirar efectivo y realizar pagos electrónicos en comercios.Las cuentas y los instrumentos de dinero electrónico permitirán transferencias a través de distintos medios (terminales de autoconsulta, celulares, páginas web).Permitirán las consultas de saldo y como mínimo 5 extracciones por mes gratis y 8 transferencias a la misma institución u a otra nacional.El Poder Ejecutivo puede modificar esas cantidades y establecer montos máximos para las transferencias gratuitas.Garantizarán una red con varios puntos de extracción en todo el territorio nacional.Las tarjetas de débito, los instrumentos de dinero electrónico  u otros medios necesarios para utilizar los servicios, no tendrán costo para el titular.Las condiciones básicas establecidas rigen para las instituciones locales.Las condiciones para la extracción de fondos y transferencias no son aplicables a los instrumentos emitidos para el pago de prestaciones de alimentación."
+    },
+    {
+      "question": "¿Qué establece paraempresas de reducida dimensión económica?",
+      "answer": "Se establece un servicio de cuentas simplificadas que las instituciones de intermediación financiera tienen la obligación de ofrecer a comerciantes incluidos en los regímenes de Monotributo y microempresas, con las condiciones básicas de las cuentas de pago de nómina."
+    },
+    {
+      "question": "¿Qué son los créditos de nómina?",
+      "answer": "Los trabajadores y pasivos que cobren su remuneración o pasividad en una institución de intermediación financiera o institución emisora de dinero electrónico, podrán solicitar el otorgamiento de un Crédito de Nómina, y autorizar al empleador, al instituto de seguridad social o compañía de seguros,  a descontar de su salario o pasividad el importe para el pago de las cuotas respectivas.Para que la autorización de descuento sea válida,  el crédito de nómina,  debe cumplir una serie de requisitos en cuanto a la moneda en que se otorga, el valor de la cuota y la tasa de interés implícita en el préstamo.Se denominaCrédito con Retención de Haberescuando la retención tiene origen en el otorgamiento de un crédito en efectivo o en el financiamiento de la venta de productos o servicios."
+    },
+    {
+      "question": "¿Qué dispone la Ley para los demás pagos que regula?",
+      "answer": "Restricción al uso de efectivo para ciertos pagosEl pago y entrega de dinero en toda operación o negocio jurídico, cualesquiera sean las partes contratantes, podrá realizarse en efectivo hasta el monto que establece la ley (1.000.000 unidades indexadas); el saldo deberá abonarse por medios de pago distintos al efectivo.La restricción rige además para las sociedades comerciales por los ingresos o egresos por aportes de capital, adelantos de fondos, reintegros de capital, pago de utilidades, entre otros.El Poder Ejecutivo podrá restringir el uso de efectivo en ciertas actividades comerciales por razones de seguridad y con el fin de tutelar la integridad física de los trabajadores y usuarios; con el mismo fin podrá habilitar, cuando lo soliciten, a que los establecimientos que enajenan bienes o prestan servicios restrinjan la aceptación de efectivo.Pagos del Estado a sus proveedoresLos pagos que realice el Estado a los proveedores de bienes o servicios podrán hacerse, a opción del proveedor, en efectivo hasta el monto máximo que establece la ley o mediante acreditación en cuenta en instituciones de intermediación financiera."
+    },
+    {
+      "question": "¿Qué beneficios se obtienen cuando se paga con tarjetas de débito, instrumentos de dinero electrónico o similares?",
+      "answer": "Reducción del IVA.- Se reduce en un 2% la tasa de IVA (Impuesto al Valor Agregado) a los consumidores finales que compren bienes o paguen servicios mediante tarjetas de débito o dinero electrónico. El Poder Ejecutivo podrá fijar reducciones adicionales de IVA para operaciones que no superen las 4.000 UI.Para las adquisiciones de bienes y servicios efectuadas por empresas de reducida dimensión económica, el Poder Ejecutivo podrá reducir la tasa del IVA en dos puntos porcentuales.Cuando se utilicen tarjetas de débito Uruguay Social, tarjetas de débito, instrumentos de dinero electrónico o instrumentos o medios de pago de naturaleza semejante para el cobro de Asignaciones Familiares o similares, emitidas con financiación del Estado, la reducción del IVA podrá ser total.El Área Defensa del Consumidor controlará la correcta aplicación de las rebajas de IVA, estando facultado a realizar inspecciones y solicitar la información necesaria a los emisores, proveedores o comercios; el incumplimiento podrá ser sancionado por la Dirección General de Comercio.\nLa Ley en tu lenguajePrograma Lenguaje CiudadanoUna forma fácil y práctica de comprender las leyes.\nLa Ley en tu lenguaje\nPrograma Lenguaje Ciudadano\nUna forma fácil y práctica de comprender las leyes.\nGUIA NORMATIVA:LEY N° 19.210de 29/04/2014"
+    },
+    {
+      "question": "¿Sabías que…por ley se promueve el uso de medios de pago electrónicos, como ser tarjetas de débito, tarjetas de crédito, instrumentos de dinero electrónico y transferencias electrónicas de fondos?",
+      "answer": "Estos medios se usan para pagos a través de cajeros automáticos, por Internet, por teléfonos celulares u otras vías.\nEl pago realizado a través de estos medios cancela la obligación.\nEn caso de transferencias electrónicas de fondos, la cancelación de la obligación se produce cuando se acredita el monto en la cuenta de destino."
+    },
+    {
+      "question": "¿Qué es dinero electrónico según la Ley?",
+      "answer": "El dinero electrónico es una forma de representar el dinero en efectivo, por ejemplo, mediante tarjetas prepagas, billeteras electrónicas o instrumentos similares.\nEs aceptado como medio de pago, convertible en dinero en efectivo, no genera intereses y su valor se almacena en medios electrónicos, como ser:\n- el chip de una tarjeta,\n- en un teléfono celular,\n- en una computadora."
+    },
+    {
+      "question": "¿Quiénes pueden emitir dinero electrónico?",
+      "answer": "Además de las instituciones de intermediación financiera (ejemplo: bancos públicos y privados), podrán emitir dinero electrónico las instituciones emisoras de dinero electrónico autorizadas por el Banco Central del Uruguay."
+    },
+    {
+      "question": "¿Qué establece sobre la actividad de las instituciones emisoras de dinero electrónico?",
+      "answer": "No podrán realizar operaciones de intermediación financiera, captar depósitos ni otorgar créditos.\nSu actividad está regulada por la propia Ley, su reglamentación y por las normas del Banco Central del Uruguay. Se establecen sanciones para casos de incumplimiento."
+    },
+    {
+      "question": "¿Qué pagos se regulan por esta Ley?",
+      "answer": "- Remuneraciones de trabajadores dependientes.\n- Honorarios de profesionales.\n- Prestaciones de servicios fuera de la relación de dependencia.\n- Pasividades (jubilaciones, pensiones y retiros).\n- Beneficios Sociales (asignaciones familiares, subsidios , etc.).\n- Prestaciones de alimentación.\n- Operaciones y negocios jurídicos por los importes que determina.\nOperaciones y negocios jurídicos por los importes que determina.\n- Pagos a proveedores del Estado.\nSe determinan losmedios de pagoadmitidos,montos mínimosde operaciones,plazospara su aplicación ysancionesen caso de incumplimiento."
+    },
+    {
+      "question": "¿Qué establece la Ley para el pago de salarios?",
+      "answer": "Los trabajadores dependientes,sin perjuicio de la modalidad de pago en efectivo, podrán  cobrar sus salarios y otros montos que tengan derecho a percibir a través de:\n- acreditación en cuenta en instituciones de intermediación financiera,\n- instrumentos de dinero electrónico.\nLa forma de pago será acordada entre trabajador y empleador al comienzo de la relación laboral y se mantendrá por 1 año; si al año no se acuerda una nueva modalidad de pago, se prorroga por 1 año más.\nSi se acuerda el pago mediante  acreditación en cuenta o en instrumento de dinero electrónico:\n- el trabajador tiene derecho a elegir libremente la institución en la cual cobrará sus retribuciones y su elección estará vigente por un año; mientras el trabajador no opte por una, el empleador puede elegir por él;\n- no implica que el trabajador acepte la liquidación;\n- no exime al empleador de la obligación de emitir el recibo de sueldo correspondiente."
+    },
+    {
+      "question": "¿Y para el pago de las prestaciones de alimentación?",
+      "answer": "La Ley establece que, cuando no son suministradas en especie,  solo se podrán pagar mediante instrumentos de dinero electrónico  que aseguren el destino de dicha prestación.\nEl beneficiario tendrá derecho a solicitar un instrumento adicional a nombre de las personas determinadas en la ley (padres, hijos, etc.)."
+    },
+    {
+      "question": "¿Cómo se regula el pago de honorarios a profesionales y otrostrabajadores no dependientes?",
+      "answer": "El pago de honorarios a profesionales fuera de la relación de dependencia podrá  realizarse:\n- en efectivo hasta el monto máximo establecido en la ley;\n- mediante medios de pago electrónicos;\n- por acreditación en cuenta en instituciones de intermediación financiera;\n- en instrumentos de dinero electrónico.\nEse sistema de pago podrá extenderse aotros trabajadores no dependientes."
+    },
+    {
+      "question": "¿Qué dispone para el pago de jubilaciones, pensiones y retiros?",
+      "answer": "Las jubilaciones, pensiones y retiros se podrán cobrar:\n- en efectivo,\n- en instituciones de intermediación financiera (ej: bancos), o\n- en instrumentos de dinero electrónico.\nLa institución para el cobro podrá ser elegida libremente por el interesado, debiendo comunicarse la decisión a la institución de la que percibe la prestación.\nPasado un año de la elección, el beneficiario podrá cambiar de institución u optar por otro medio de cobro."
+    },
+    {
+      "question": "¿Qué establece para el pago de beneficios sociales?",
+      "answer": "El pago de beneficios sociales, asignaciones familiares, complementos salariales, indemnizaciones temporarias, rentas por incapacidades permanentes y subsidios de cualquier tipo, realizado por cualquier instituto de seguridad social o compañía de seguros, podrá ser:\n- en efectivo,\n- acreditación en cuenta en instituciones de intermediación financiera (ej: bancos), o\n- en instrumento de dinero electrónico.\nEn el caso de los trabajadores, el pago se realizará en la institución en que percibe su remuneración;  los demás beneficiarios podrán elegir libremente la institución en la que cobrarán.\nLa decisión debe comunicarse a la institución de la que perciben la prestación.\nPasado un año de la elección, el beneficiario podrá cambiar de institución u optar por otro medio de cobro."
+    },
+    {
+      "question": "¿Qué establece sobre la inembargabilidad de las sumas acreditadas?",
+      "answer": "A los montos acreditados por remuneraciones, pasividades y beneficios sociales se les aplica el régimen de inembargabilidad establecido por la legislación, durante el plazo de 180 días corridos desde la fecha de la respectiva acreditación.\nAdemás se establece como medida de protección del pago de remuneraciones, pasividades, beneficios sociales, etc., que  la insolvencia de una institución emisora de dinero electrónico o su inhabilitación para funcionar, en ningún caso impedirá el pago, al titular del instrumento de dinero electrónico, de las sumas que tengan acreditadas."
+    },
+    {
+      "question": "¿Cómo se regula la prestación de los servicios por parte de las instituciones de intermediación financiera y de las instituciones que emiten dinero electrónico?",
+      "answer": "- La información sobre las ofertas de productos y servicios de las instituciones, para el pago de honorarios, pasividades, etc., deberá ser clara, legible y de buena fe.\n- Deberán brindar los servicios a todos los trabajadores, pasivos y beneficiarios que lo soliciten sin discriminación y gratuitamente.\n- Deberán brindar los servicios a quienes cobren prestaciones alimenticias dispuestas u homologadas judicialmente y soliciten su acreditación en  instituciones de intermediación financiera o en instrumento de dinero electrónico.\n- Los beneficios y promociones que otorguen deben estar disponibles a todos los trabajadores, pasivos y beneficiarios por igual.\n- Lascuentas en instituciones de intermediación financiera y los instrumentos de dinero electrónicoen los que se acrediten los pagos a los trabajadores, pasivos y beneficiarios deberán cumplir, entre otras, las siguientes condiciones básicas:No tendrán costo, ni exigencia de saldos mínimos.Permitirán la extracción de los fondos en cualquier momento, incluso de la totalidad del dinero en un solo movimiento mensual, sin costo ni preaviso.En el caso de cuentas, tendrán asociada una tarjeta de débito, que permitirá a su titular retirar efectivo y realizar pagos electrónicos en comercios.Las cuentas y los instrumentos de dinero electrónico permitirán transferencias a través de distintos medios (terminales de autoconsulta, celulares, páginas web).Permitirán las consultas de saldo y como mínimo 5 extracciones por mes gratis y 8 transferencias a la misma institución u a otra nacional.El Poder Ejecutivo puede modificar esas cantidades y establecer montos máximos para las transferencias gratuitas.Garantizarán una red con varios puntos de extracción en todo el territorio nacional.Las tarjetas de débito, los instrumentos de dinero electrónico  u otros medios necesarios para utilizar los servicios, no tendrán costo para el titular.\n- No tendrán costo, ni exigencia de saldos mínimos.\n- Permitirán la extracción de los fondos en cualquier momento, incluso de la totalidad del dinero en un solo movimiento mensual, sin costo ni preaviso.\n- En el caso de cuentas, tendrán asociada una tarjeta de débito, que permitirá a su titular retirar efectivo y realizar pagos electrónicos en comercios.\n- Las cuentas y los instrumentos de dinero electrónico permitirán transferencias a través de distintos medios (terminales de autoconsulta, celulares, páginas web).\n- Permitirán las consultas de saldo y como mínimo 5 extracciones por mes gratis y 8 transferencias a la misma institución u a otra nacional.El Poder Ejecutivo puede modificar esas cantidades y establecer montos máximos para las transferencias gratuitas.\n- Garantizarán una red con varios puntos de extracción en todo el territorio nacional.\n- Las tarjetas de débito, los instrumentos de dinero electrónico  u otros medios necesarios para utilizar los servicios, no tendrán costo para el titular.\nLas condiciones básicas establecidas rigen para las instituciones locales.\nLas condiciones para la extracción de fondos y transferencias no son aplicables a los instrumentos emitidos para el pago de prestaciones de alimentación."
+    },
+    {
+      "question": "¿Qué establece paraempresas de reducida dimensión económica?",
+      "answer": "Se establece un servicio de cuentas simplificadas que las instituciones de intermediación financiera tienen la obligación de ofrecer a comerciantes incluidos en los regímenes de Monotributo y microempresas, con las condiciones básicas de las cuentas de pago de nómina."
+    },
+    {
+      "question": "¿Qué son los créditos de nómina?",
+      "answer": "Los trabajadores y pasivos que cobren su remuneración o pasividad en una institución de intermediación financiera o institución emisora de dinero electrónico, podrán solicitar el otorgamiento de un Crédito de Nómina, y autorizar al empleador, al instituto de seguridad social o compañía de seguros,  a descontar de su salario o pasividad el importe para el pago de las cuotas respectivas.\nPara que la autorización de descuento sea válida,  el crédito de nómina,  debe cumplir una serie de requisitos en cuanto a la moneda en que se otorga, el valor de la cuota y la tasa de interés implícita en el préstamo.\nSe denominaCrédito con Retención de Haberescuando la retención tiene origen en el otorgamiento de un crédito en efectivo o en el financiamiento de la venta de productos o servicios."
+    },
+    {
+      "question": "¿Qué dispone la Ley para los demás pagos que regula?",
+      "answer": "Restricción al uso de efectivo para ciertos pagos\nEl pago y entrega de dinero en toda operación o negocio jurídico, cualesquiera sean las partes contratantes, podrá realizarse en efectivo hasta el monto que establece la ley (1.000.000 unidades indexadas); el saldo deberá abonarse por medios de pago distintos al efectivo.\nLa restricción rige además para las sociedades comerciales por los ingresos o egresos por aportes de capital, adelantos de fondos, reintegros de capital, pago de utilidades, entre otros.\nEl Poder Ejecutivo podrá restringir el uso de efectivo en ciertas actividades comerciales por razones de seguridad y con el fin de tutelar la integridad física de los trabajadores y usuarios; con el mismo fin podrá habilitar, cuando lo soliciten, a que los establecimientos que enajenan bienes o prestan servicios restrinjan la aceptación de efectivo.\nPagos del Estado a sus proveedores\nLos pagos que realice el Estado a los proveedores de bienes o servicios podrán hacerse, a opción del proveedor, en efectivo hasta el monto máximo que establece la ley o mediante acreditación en cuenta en instituciones de intermediación financiera."
+    },
+    {
+      "question": "¿Qué beneficios se obtienen cuando se paga con tarjetas de débito, instrumentos de dinero electrónico o similares?",
+      "answer": "Reducción del IVA.- Se reduce en un 2% la tasa de IVA (Impuesto al Valor Agregado) a los consumidores finales que compren bienes o paguen servicios mediante tarjetas de débito o dinero electrónico. El Poder Ejecutivo podrá fijar reducciones adicionales de IVA para operaciones que no superen las 4.000 UI.\nPara las adquisiciones de bienes y servicios efectuadas por empresas de reducida dimensión económica, el Poder Ejecutivo podrá reducir la tasa del IVA en dos puntos porcentuales.\nCuando se utilicen tarjetas de débito Uruguay Social, tarjetas de débito, instrumentos de dinero electrónico o instrumentos o medios de pago de naturaleza semejante para el cobro de Asignaciones Familiares o similares, emitidas con financiación del Estado, la reducción del IVA podrá ser total.\nEl Área Defensa del Consumidor controlará la correcta aplicación de las rebajas de IVA, estando facultado a realizar inspecciones y solicitar la información necesaria a los emisores, proveedores o comercios; el incumplimiento podrá ser sancionado por la Dirección General de Comercio."
+    }
+  ]
+}

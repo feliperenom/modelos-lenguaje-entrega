@@ -1,0 +1,198 @@
+{
+  "filename": "Gestion de residuos",
+  "link": "https://www.impo.com.uy/gestion-de-residuos/",
+  "bloques": [
+    {
+      "question": "¿Sabías que…se aprobó una Ley que regula la gestión de los residuos para proteger el medio ambiente?",
+      "answer": "Su objetivo es prevenir y reducir el impacto negativo de la generación y del manejo de los residuos y el reconocimiento de sus posibilidades de generar valor y empleo de calidad."
+    },
+    {
+      "question": "¿Qué es un residuo o desecho?",
+      "answer": "Toda sustancia, material u objeto del cual alguien se desprende o da disposición final."
+    },
+    {
+      "question": "¿Qué residuos están comprendidos?",
+      "answer": "Todos los residuos, de cualquier tipo y origen, con excepción de los radiactivos y de los generados en actividades mineras cuando se puedan gestionar en el sitio donde se desarrolla la actividad."
+    },
+    {
+      "question": "¿Cuáles son los tipos de residuos?",
+      "answer": "Sin perjuicio de otros que se definan, son los siguientes:Domiciliarios:se generan de las actividades domésticas y cotidianas, y obras menores de reparación en los hogares.Incluye los generados en establecimientos comerciales o de servicios de pequeñas dimensiones, que por su composición y cantidad sean similares a los generados en hogares.De limpieza de espacios públicos:resultan de la limpieza de las calles, áreas verdes o recreativas o cualquier sitio de uso público, realizada por servicios departamentales o municipales.De actividades económico-productivas:proceden de actividades públicas o privadas, sean comerciales, administrativas, de servicios, de producción agropecuaria o industrial, entre otras.Sanitarios:generados por los centros y servicios de atención a la salud humana o animal, incluidos los vinculados a la investigación y diagnóstico.De obras de construcción:generados en actividades de construcción, reforma o demolición de obras.Suelo contaminado:presencia de componentes químicos peligrosos, según criterios de concentración a partir de los cuales se consideran con riesgo inaceptable para la salud humana y el ambiente.Sedimentos:provienen del dragado o actividades similares.Especiales:los que por su composición o características tienen una gestión independiente de los otros tipos de residuos.Se consideran residuos especiales:envases y embalajes, cualquiera sea su origen y función;otros residuos plásticos distintos a envases y embalajes;baterías y pilas;electro-electrónicos;neumáticos fuera de uso;los aceites usados comestibles y no comestibles;vehículos fuera de uso."
+    },
+    {
+      "question": "¿Qué obligaciones tienen las autoridades y en general todos los habitantes respecto a la generación de residuos?",
+      "answer": "La obligación de minimizar su generación y gestionarlos de acuerdo a lo que establece esta ley y demás normas que la regulen."
+    },
+    {
+      "question": "¿Qué significa la gestión de residuos?",
+      "answer": "Son acciones para su valorización o disposición final; incluye, entre otras, la clasificación, la disposición inicial, la recolección, el transporte, los tratamientos y las transformaciones, la comercialización y la disposición final."
+    },
+    {
+      "question": "¿Y la Gestión integral?",
+      "answer": "Son operaciones de gestión y otras acciones de política, de planificación, normativas, administrativas, financieras, organizativas, educativas, de evaluación, de seguimiento y de fiscalización, referidas a residuos."
+    },
+    {
+      "question": "¿Qué responsabilidades tienen quienes generan residuos?",
+      "answer": "Toda persona física o jurídica, pública o privada, cuya actividad genere residuos de cualquier tipo, es responsable de su gestión en todas las etapas, asumiendo los costos.Dicha gestión podrá ser realizada por terceros, siempre que se encuentren debidamente autorizados o habilitados."
+    },
+    {
+      "question": "¿En qué principios se basa la política nacional de gestión de residuos?",
+      "answer": "En los mismos principios en que se basa la política ambiental nacional, ya que forma parte de la misma, y en los siguientes que son específicos y complementarios:asegurar la sostenibilidad económica, social y ambiental de las acciones que se deriven de variables tales como las ambientales, sociales, culturales, económicas y tecnológicas;evitar y minimizar la generación de residuos y facilitar la valorización de los que se generen, contemplando todo el ciclo de vida de los productos, incluyendo su diseño y uso;búsqueda de la eficacia y eficiencia;involucramiento de toda la sociedad en la gestión de los residuos, mediante un sistema de responsabilidad compartida, concientizando e implementando modalidades de producción y consumo sostenibles;reconocimiento de que los residuos son capaces de generar valor y empleo en el marco de un proceso productivo formal."
+    },
+    {
+      "question": "¿Cuáles son las directivas generales para la gestión de residuos?",
+      "answer": "Orden de prioridad:minimizar la generación en origen;promover la reutilización y la valorización del residuo a través del reciclado;valorización energética y otras formas de valorización de residuos;disposición final como última opción.Capacitar para aplicar las mejores tecnologías disponibles en todas las etapas.Desincentivar actividades informales en la gestión de residuos.Promover la inclusión social y laboral de los clasificadores de residuos.Impulsar el tratamiento de residuos orgánicos que puedan ser compostables, para su valorización como mejoradores del suelo o fertilizantesProcurar soluciones para mitigación y adaptación al cambio climático y la diversificación de la matriz energética nacional.Circulación libre de residuos entre las distintas jurisdicciones del país.Propiciar la educación y la capacitación para una gestión de residuos que sea responsable, participativa, eficiente y eficaz.Los gobiernos departamentales y los municipios orientarán sus planes de gestión hacia mecanismos complementarios que propicien la clasificación y segregación en origen y a la recolección selectiva, que implican separar los residuos a valorizar y los de disposición final."
+    },
+    {
+      "question": "¿Y las directivas particulares para residuos domiciliarios?",
+      "answer": "Entre ellas:Promover su gestión por áreas o regiones, pudiendo incluir varios departamentos.Promover, como principio, la disminución de la generación, la segregación en origen y la recolección selectiva.Responsabilidad de los habitantes de la clasificación y segregación de los residuos domiciliarios, así como de su disposición inicial.Uniformizar los esquemas de recolección selectiva a nivel nacional para facilitar la segregación de residuos y la integración de los servicios regionales.Asegurar la sustentabilidad del sistema y fomentar la inclusión social de los clasificadores registrados.La disposición final en el terreno como última opción.Reducción del número de sitios de disposición final.Lograr mejoras ambientales en los sitios de disposición final que se mantengan y clausurar y acondicionar los que no estén operativos."
+    },
+    {
+      "question": "¿Qué establece la ley sobre residuos especiales?",
+      "answer": "Entre otras, establece que:Solo podrán fabricarlos o importarlos quienes se encuentren inscriptos en el registro a crearse en el Ministerio de Ambiente.Los intermediarios en su distribución y comercialización, están obligados a recibir y aceptar el retorno de productos o envases finalizado su uso."
+    },
+    {
+      "question": "¿Qué autoridades están a cargo de aplicar la Ley?",
+      "answer": "ElMinisterio de Ambientetiene la competencia a nivel nacional tanto de su aplicación como de su cumplimiento.No obstante, losgobiernos departamentalesen cada uno de sus territorios, tienen los cometidos que le asigna la ley, y deben dictar las normas que faciliten o aseguren su cumplimiento.Están a cargo del transporte de los residuos domiciliarios recolectados y de los generados por la limpieza calles y sitios de uso público, para su reciclado u otras formas de valorización, tratamiento y disposición final."
+    },
+    {
+      "question": "¿Qué son el Plan Nacional y los Planes Departamentales de Gestión de Residuos?",
+      "answer": "Son los instrumentos que deben formular el Ministerio de Ambiente y cada gobierno departamental en base a lo establecido en esta ley, conteniendo las líneas de actuación pública y privada, para implantar y desarrollar las políticas de gestión de residuos."
+    },
+    {
+      "question": "¿Quién coordina los Planes?",
+      "answer": "El Ministerio de Ambiente coordinará con los gobiernos departamentales la elaboración e implementación de los planes y las estrategias departamentales o regionales.Se crea laComisión de Coordinación y Planificación sobre Residuos, como órgano de coordinación, cooperación y colaboración entre las administraciones públicas competentes en materia de residuos."
+    },
+    {
+      "question": "¿Se debe dar difusión a los planes de gestión de residuos?",
+      "answer": "Sí, son públicos y se les dará amplia difusión, con indicación clara del rol que la población tiene en los mismos.Se propiciará la participación de interesados y público en general, en la creación y seguimiento de los planes, acompañándolo con acciones de educación y capacitación para una gestión responsable y participativa, eficiente y eficaz de los residuos, buscando la transparencia."
+    },
+    {
+      "question": "¿Cómo se promueve el reciclado?",
+      "answer": "Generando capacidades para la valorización de los residuos, en especial en procesos de reciclado.Mediante la cooperación técnica y financiera entre sectores públicos y privados, desarrollando productos de materiales reciclados y tecnologías que permitan el reciclado.Fomentando el encuentro entre la oferta y la demanda para mejorar la comercialización y valoración de los residuos.Priorizando, en las contrataciones públicas, la compra de bienes de producción nacional realizados con materiales reciclados."
+    },
+    {
+      "question": "¿Qué establece la ley respecto a alimentos para consumo humano?",
+      "answer": "En su fabricación y comercialización se priorizará reducir pérdidas, desperdicios y excedentes de alimentos.Los excedentes se aprovecharán como alimento humano siempre que estén en buenas condiciones de sanidad e inocuidad alimentaria; en caso contrario se utilizarán como alimento animal si cuentan con condiciones de sanidad e inocuidad alimentaria animal."
+    },
+    {
+      "question": "¿Se requiere autorización para realizar operaciones de comercialización de materiales para reciclar y de los reciclados?",
+      "answer": "Sí, solo quienes se encuentren autorizados y registrados podrán, de forma permanente, realizar operaciones para obtener y comercializar materiales para reciclar y para comercializar y distribuir los productos reciclados.La ley establece un plazo máximo para que las personas involucradas en la comercialización de residuos se adecuen a sus disposiciones; a partir de ese plazo se prohíbe la comercialización de residuos por quienes no tengan la autorización correspondiente."
+    },
+    {
+      "question": "¿Qué dispone acerca de los clasificadores?",
+      "answer": "La actividad de los clasificadores será regulada para facilitar su inclusión al sistema formal y generar condiciones adecuadas de trabajo.Los procesos de inclusión social, laboral y productiva de los clasificadores deberán:considerar criterios de equidad;contar con medidas de acompañamiento social, fomentando las perspectivas y proyectos personales y viabilizando el acceso a derechos, bienes y servicios sociales;apoyar la capacitación y formación.Se crean a cargo del Ministerio de Trabajo y Seguridad Social:elinventario de iniciativas de inclusión social y productiva de clasificadores;elregistro de clasificadores de residuos: la inscripción es requerida para acceder a los beneficios de inclusión social, laboral y productiva previstos en la ley."
+    },
+    {
+      "question": "¿Qué otras medidas se disponen para la inclusión de los clasificadores?",
+      "answer": "Entre otras:Creación de programas de certificación de competencias para mejorar su inclusión al empleo formal.Estímulos a empresas privadas para la contratación de clasificadores registrados que generen nuevos puestos de trabajo.Priorización por parte del Estado y las personas de derecho público no estatal, en la adquisición de servicios de gestión de residuos, a los clasificadores registrados.Promoción y apoyo del desarrollo de cooperativas u otras formas de asociación autogestionadas integradas por clasificadores de residuos."
+    },
+    {
+      "question": "¿Qué autoridades se encuentran a cargo de promover la educación en la gestión de residuos?",
+      "answer": "El Ministerio de Ambiente y las autoridades educativas promoverán la educación ambiental vinculada a la prevención de la generación, valorización y gestión de los residuos."
+    },
+    {
+      "question": "¿La ley determina alguna responsabilidad?",
+      "answer": "Si, las personas físicas o jurídicas serán responsables por los daños que la gestión de residuos pueda causar."
+    },
+    {
+      "question": "¿Se establecen sanciones en caso de incumplimiento?",
+      "answer": "Sí, el Ministerio de Ambiente sancionará de acuerdo a la normativa a la que se remite esta ley.\nLa Ley en tu lenguajePrograma Lenguaje CiudadanoUna forma fácil y práctica de comprender las leyes.\nLa Ley en tu lenguaje\nPrograma Lenguaje Ciudadano\nUna forma fácil y práctica de comprender las leyes.\n(Actualizado: setiembre, 2021)\nGUÍA NORMATIVA:Ley N° 19.829de 18/09/2019."
+    },
+    {
+      "question": "¿Sabías que…se aprobó una Ley que regula la gestión de los residuos para proteger el medio ambiente?",
+      "answer": "Su objetivo es prevenir y reducir el impacto negativo de la generación y del manejo de los residuos y el reconocimiento de sus posibilidades de generar valor y empleo de calidad."
+    },
+    {
+      "question": "¿Qué es un residuo o desecho?",
+      "answer": "Toda sustancia, material u objeto del cual alguien se desprende o da disposición final."
+    },
+    {
+      "question": "¿Qué residuos están comprendidos?",
+      "answer": "Todos los residuos, de cualquier tipo y origen, con excepción de los radiactivos y de los generados en actividades mineras cuando se puedan gestionar en el sitio donde se desarrolla la actividad."
+    },
+    {
+      "question": "¿Cuáles son los tipos de residuos?",
+      "answer": "Sin perjuicio de otros que se definan, son los siguientes:\n- Domiciliarios:se generan de las actividades domésticas y cotidianas, y obras menores de reparación en los hogares.Incluye los generados en establecimientos comerciales o de servicios de pequeñas dimensiones, que por su composición y cantidad sean similares a los generados en hogares.\n- De limpieza de espacios públicos:resultan de la limpieza de las calles, áreas verdes o recreativas o cualquier sitio de uso público, realizada por servicios departamentales o municipales.\n- De actividades económico-productivas:proceden de actividades públicas o privadas, sean comerciales, administrativas, de servicios, de producción agropecuaria o industrial, entre otras.\n- Sanitarios:generados por los centros y servicios de atención a la salud humana o animal, incluidos los vinculados a la investigación y diagnóstico.\n- De obras de construcción:generados en actividades de construcción, reforma o demolición de obras.\n- Suelo contaminado:presencia de componentes químicos peligrosos, según criterios de concentración a partir de los cuales se consideran con riesgo inaceptable para la salud humana y el ambiente.\n- Sedimentos:provienen del dragado o actividades similares.\n- Especiales:los que por su composición o características tienen una gestión independiente de los otros tipos de residuos.Se consideran residuos especiales:envases y embalajes, cualquiera sea su origen y función;otros residuos plásticos distintos a envases y embalajes;baterías y pilas;electro-electrónicos;neumáticos fuera de uso;los aceites usados comestibles y no comestibles;vehículos fuera de uso.\n- envases y embalajes, cualquiera sea su origen y función;\n- otros residuos plásticos distintos a envases y embalajes;\n- baterías y pilas;\n- electro-electrónicos;\n- neumáticos fuera de uso;\n- los aceites usados comestibles y no comestibles;\n- vehículos fuera de uso."
+    },
+    {
+      "question": "¿Qué obligaciones tienen las autoridades y en general todos los habitantes respecto a la generación de residuos?",
+      "answer": "La obligación de minimizar su generación y gestionarlos de acuerdo a lo que establece esta ley y demás normas que la regulen."
+    },
+    {
+      "question": "¿Qué significa la gestión de residuos?",
+      "answer": "Son acciones para su valorización o disposición final; incluye, entre otras, la clasificación, la disposición inicial, la recolección, el transporte, los tratamientos y las transformaciones, la comercialización y la disposición final."
+    },
+    {
+      "question": "¿Y la Gestión integral?",
+      "answer": "Son operaciones de gestión y otras acciones de política, de planificación, normativas, administrativas, financieras, organizativas, educativas, de evaluación, de seguimiento y de fiscalización, referidas a residuos."
+    },
+    {
+      "question": "¿Qué responsabilidades tienen quienes generan residuos?",
+      "answer": "Toda persona física o jurídica, pública o privada, cuya actividad genere residuos de cualquier tipo, es responsable de su gestión en todas las etapas, asumiendo los costos.Dicha gestión podrá ser realizada por terceros, siempre que se encuentren debidamente autorizados o habilitados."
+    },
+    {
+      "question": "¿En qué principios se basa la política nacional de gestión de residuos?",
+      "answer": "En los mismos principios en que se basa la política ambiental nacional, ya que forma parte de la misma, y en los siguientes que son específicos y complementarios:\n- asegurar la sostenibilidad económica, social y ambiental de las acciones que se deriven de variables tales como las ambientales, sociales, culturales, económicas y tecnológicas;\n- evitar y minimizar la generación de residuos y facilitar la valorización de los que se generen, contemplando todo el ciclo de vida de los productos, incluyendo su diseño y uso;\n- búsqueda de la eficacia y eficiencia;\n- involucramiento de toda la sociedad en la gestión de los residuos, mediante un sistema de responsabilidad compartida, concientizando e implementando modalidades de producción y consumo sostenibles;\n- reconocimiento de que los residuos son capaces de generar valor y empleo en el marco de un proceso productivo formal."
+    },
+    {
+      "question": "¿Cuáles son las directivas generales para la gestión de residuos?",
+      "answer": "- Orden de prioridad:minimizar la generación en origen;promover la reutilización y la valorización del residuo a través del reciclado;valorización energética y otras formas de valorización de residuos;disposición final como última opción.\n- minimizar la generación en origen;\n- promover la reutilización y la valorización del residuo a través del reciclado;\n- valorización energética y otras formas de valorización de residuos;\n- disposición final como última opción.\n- Capacitar para aplicar las mejores tecnologías disponibles en todas las etapas.\n- Desincentivar actividades informales en la gestión de residuos.\n- Promover la inclusión social y laboral de los clasificadores de residuos.\n- Impulsar el tratamiento de residuos orgánicos que puedan ser compostables, para su valorización como mejoradores del suelo o fertilizantes\n- Procurar soluciones para mitigación y adaptación al cambio climático y la diversificación de la matriz energética nacional.\n- Circulación libre de residuos entre las distintas jurisdicciones del país.\n- Propiciar la educación y la capacitación para una gestión de residuos que sea responsable, participativa, eficiente y eficaz.\n- Los gobiernos departamentales y los municipios orientarán sus planes de gestión hacia mecanismos complementarios que propicien la clasificación y segregación en origen y a la recolección selectiva, que implican separar los residuos a valorizar y los de disposición final."
+    },
+    {
+      "question": "¿Y las directivas particulares para residuos domiciliarios?",
+      "answer": "Entre ellas:\n- Promover su gestión por áreas o regiones, pudiendo incluir varios departamentos.\n- Promover, como principio, la disminución de la generación, la segregación en origen y la recolección selectiva.\n- Responsabilidad de los habitantes de la clasificación y segregación de los residuos domiciliarios, así como de su disposición inicial.\n- Uniformizar los esquemas de recolección selectiva a nivel nacional para facilitar la segregación de residuos y la integración de los servicios regionales.\n- Asegurar la sustentabilidad del sistema y fomentar la inclusión social de los clasificadores registrados.\n- La disposición final en el terreno como última opción.\n- Reducción del número de sitios de disposición final.\n- Lograr mejoras ambientales en los sitios de disposición final que se mantengan y clausurar y acondicionar los que no estén operativos."
+    },
+    {
+      "question": "¿Qué establece la ley sobre residuos especiales?",
+      "answer": "Entre otras, establece que:\n- Solo podrán fabricarlos o importarlos quienes se encuentren inscriptos en el registro a crearse en el Ministerio de Ambiente.\n- Los intermediarios en su distribución y comercialización, están obligados a recibir y aceptar el retorno de productos o envases finalizado su uso."
+    },
+    {
+      "question": "¿Qué autoridades están a cargo de aplicar la Ley?",
+      "answer": "ElMinisterio de Ambientetiene la competencia a nivel nacional tanto de su aplicación como de su cumplimiento.No obstante, losgobiernos departamentalesen cada uno de sus territorios, tienen los cometidos que le asigna la ley, y deben dictar las normas que faciliten o aseguren su cumplimiento.Están a cargo del transporte de los residuos domiciliarios recolectados y de los generados por la limpieza calles y sitios de uso público, para su reciclado u otras formas de valorización, tratamiento y disposición final."
+    },
+    {
+      "question": "¿Qué son el Plan Nacional y los Planes Departamentales de Gestión de Residuos?",
+      "answer": "Son los instrumentos que deben formular el Ministerio de Ambiente y cada gobierno departamental en base a lo establecido en esta ley, conteniendo las líneas de actuación pública y privada, para implantar y desarrollar las políticas de gestión de residuos."
+    },
+    {
+      "question": "¿Quién coordina los Planes?",
+      "answer": "El Ministerio de Ambiente coordinará con los gobiernos departamentales la elaboración e implementación de los planes y las estrategias departamentales o regionales.\nSe crea laComisión de Coordinación y Planificación sobre Residuos, como órgano de coordinación, cooperación y colaboración entre las administraciones públicas competentes en materia de residuos."
+    },
+    {
+      "question": "¿Se debe dar difusión a los planes de gestión de residuos?",
+      "answer": "Sí, son públicos y se les dará amplia difusión, con indicación clara del rol que la población tiene en los mismos.Se propiciará la participación de interesados y público en general, en la creación y seguimiento de los planes, acompañándolo con acciones de educación y capacitación para una gestión responsable y participativa, eficiente y eficaz de los residuos, buscando la transparencia."
+    },
+    {
+      "question": "¿Cómo se promueve el reciclado?",
+      "answer": "- Generando capacidades para la valorización de los residuos, en especial en procesos de reciclado.\n- Mediante la cooperación técnica y financiera entre sectores públicos y privados, desarrollando productos de materiales reciclados y tecnologías que permitan el reciclado.\n- Fomentando el encuentro entre la oferta y la demanda para mejorar la comercialización y valoración de los residuos.\n- Priorizando, en las contrataciones públicas, la compra de bienes de producción nacional realizados con materiales reciclados."
+    },
+    {
+      "question": "¿Qué establece la ley respecto a alimentos para consumo humano?",
+      "answer": "En su fabricación y comercialización se priorizará reducir pérdidas, desperdicios y excedentes de alimentos.Los excedentes se aprovecharán como alimento humano siempre que estén en buenas condiciones de sanidad e inocuidad alimentaria; en caso contrario se utilizarán como alimento animal si cuentan con condiciones de sanidad e inocuidad alimentaria animal."
+    },
+    {
+      "question": "¿Se requiere autorización para realizar operaciones de comercialización de materiales para reciclar y de los reciclados?",
+      "answer": "Sí, solo quienes se encuentren autorizados y registrados podrán, de forma permanente, realizar operaciones para obtener y comercializar materiales para reciclar y para comercializar y distribuir los productos reciclados.\nLa ley establece un plazo máximo para que las personas involucradas en la comercialización de residuos se adecuen a sus disposiciones; a partir de ese plazo se prohíbe la comercialización de residuos por quienes no tengan la autorización correspondiente."
+    },
+    {
+      "question": "¿Qué dispone acerca de los clasificadores?",
+      "answer": "La actividad de los clasificadores será regulada para facilitar su inclusión al sistema formal y generar condiciones adecuadas de trabajo.\nLos procesos de inclusión social, laboral y productiva de los clasificadores deberán:\n- considerar criterios de equidad;\n- contar con medidas de acompañamiento social, fomentando las perspectivas y proyectos personales y viabilizando el acceso a derechos, bienes y servicios sociales;\n- apoyar la capacitación y formación.\nSe crean a cargo del Ministerio de Trabajo y Seguridad Social:\n- elinventario de iniciativas de inclusión social y productiva de clasificadores;\n- elregistro de clasificadores de residuos: la inscripción es requerida para acceder a los beneficios de inclusión social, laboral y productiva previstos en la ley."
+    },
+    {
+      "question": "¿Qué otras medidas se disponen para la inclusión de los clasificadores?",
+      "answer": "Entre otras:\n- Creación de programas de certificación de competencias para mejorar su inclusión al empleo formal.\n- Estímulos a empresas privadas para la contratación de clasificadores registrados que generen nuevos puestos de trabajo.\n- Priorización por parte del Estado y las personas de derecho público no estatal, en la adquisición de servicios de gestión de residuos, a los clasificadores registrados.\n- Promoción y apoyo del desarrollo de cooperativas u otras formas de asociación autogestionadas integradas por clasificadores de residuos."
+    },
+    {
+      "question": "¿Qué autoridades se encuentran a cargo de promover la educación en la gestión de residuos?",
+      "answer": "El Ministerio de Ambiente y las autoridades educativas promoverán la educación ambiental vinculada a la prevención de la generación, valorización y gestión de los residuos."
+    },
+    {
+      "question": "¿La ley determina alguna responsabilidad?",
+      "answer": "Si, las personas físicas o jurídicas serán responsables por los daños que la gestión de residuos pueda causar."
+    },
+    {
+      "question": "¿Se establecen sanciones en caso de incumplimiento?",
+      "answer": "Sí, el Ministerio de Ambiente sancionará de acuerdo a la normativa a la que se remite esta ley."
+    }
+  ]
+}
