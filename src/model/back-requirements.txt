@@ -7,3 +7,4 @@ openai
 faiss-cpu
 python-dotenv
 pydantic
+sentence_transformers
