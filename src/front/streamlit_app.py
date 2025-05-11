@@ -3,14 +3,14 @@ import requests
 import time
 
 st.set_page_config(page_title="Chat Legal UY", layout="centered")
-st.title("💬 Asistente Legal Uruguay (RAG + GPT-4o)")
+st.title("💬 Asistente Legal Uruguay (RAG + GPT-3.5-turbo)")
 
 with st.sidebar:
     st.header("⚖️ Chat Legal UY")
     st.markdown(
         """
         - Escribe tu consulta legal en el chat.
-        - Las respuestas se generan con RAG y GPT-4o.
+        - Las respuestas se generan con RAG y GPT-3.5-turbo.
         - El modelo solo responde usando el contexto legal cargado.
         """
     )
